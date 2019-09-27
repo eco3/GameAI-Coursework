@@ -1,6 +1,6 @@
 # Game AI - Coursework
 
-HsKA - SS2019
+HsKA - WS 19/20
 
 This repository includes a Jupyter notebook.
 
